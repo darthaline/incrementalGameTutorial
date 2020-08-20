@@ -1,2 +1,1 @@
-# incrementalGameTutorial
- 
+This is a [simple incremental game](https://darthaline.github.io/incrementalGameTutorial/game.html) implementation based on a [tutorial by dhmstark](http://dhmstark.co.uk/articles/incrementals.html)
